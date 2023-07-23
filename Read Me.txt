@@ -1,0 +1,17 @@
+
+READ ME
+
+
+Overview of what you did (i.e. what are the controls? Why this design?)
+
+	I designed an image editor that is able to modify the colors present in the image and change it lens level.
+
+• What was challenging.
+
+	I had issue with the colorpicker and saturation
+
+ 
+• What went well (i.e. how did you solve the above challenges?)
+	
+	Most part of the assignment was easy due to following class videos
+	I did alot of research and asked prof for clarification which aided me to get the everything working properly

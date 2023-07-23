@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<group>
+	<brightness>0</brightness>
+	<contrast>0</contrast>
+	<greyscale>0</greyscale>
+	<saturation>214.2</saturation>
+	<Modifty_Sliders>
+		<Re-Size>70.2551</Re-Size>
+		<Resolution>19</Resolution>
+	</Modifty_Sliders>
+	<Colour_Sliders>
+		<Brightness>-57.2449</Brightness>
+		<Contrast>-132.704</Contrast>
+		<GreyScale>-124.898</GreyScale>
+		<Saturation>-161.327</Saturation>
+		<R_>-208.163</R_>
+		<G_>0</G_>
+		<B_>0</B_>
+	</Colour_Sliders>
+	<Lens_Modifier />
+</group>
